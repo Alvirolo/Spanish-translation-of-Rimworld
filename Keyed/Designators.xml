@@ -8,7 +8,7 @@
   <DesignatorCutPlantsDesc>Designa plantas para ser destruidas. La planta desaparecerá por completo y cualquier comida que pueda contener será cosechada.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>Demoler</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Demuele construcciones y recupera parte de sus recursos.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Desmantela construcciones y recupera parte de los recursos empleados.</DesignatorDeconstructDesc>
 
   <DesignatorHarvestPlants>Cosechar plantas</DesignatorHarvestPlants>
   <DesignatorHarvestPlantsDesc>Designa plantas para ser cosechadas. La comida será cosechada tan pronto como sea posible, pero la planta en sí permanecerá.</DesignatorHarvestPlantsDesc>
@@ -22,7 +22,7 @@
   <DesignatorHuntDesc>Designa animales para ser cazados por tus cazadores.</DesignatorHuntDesc>
 
   <DesignatorMine>Minar</DesignatorMine>
-  <DesignatorMineDesc>Designa animales para ser cazados por tus cazadores.</DesignatorMineDesc>
+  <DesignatorMineDesc>Designa las zonas que deseas que tus colonos minen.</DesignatorMineDesc>
 
   <DesignatorPlan>Planificar</DesignatorPlan>
   <DesignatorPlanDesc>Diseña planos. Esto no hace nada aparte de ayudarte a planear futuras expansiones.</DesignatorPlanDesc>
@@ -63,8 +63,8 @@
   <WouldBlockInteractionSpot>{0} bloquearía el punto de interacción de {1}.</WouldBlockInteractionSpot>
   <TerrainIsAlready>Este terreno ya es {0}.</TerrainIsAlready>
   <IdenticalThingExists>Ya hay algo idéntico aquí.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Ya existe un cianotipo idéntico aquí.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>Este terreno no puede sostener esto.</TerrainCannotSupport>
+  <IdenticalBlueprintExists>Ya existe un plano idéntico aquí.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Este terreno no puede sosportar esto.</TerrainCannotSupport>
   <SpaceAlreadyOccupied>Espacio ya ocupado.</SpaceAlreadyOccupied>
 
   <!-- placement of zones -->
