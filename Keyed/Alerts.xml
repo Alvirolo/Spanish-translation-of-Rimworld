@@ -5,7 +5,7 @@
 	
 	
   <MentalBreakSoon>Colapso mental cercano</MentalBreakSoon>
-  <MentalBreakSoonDesc>Estos colonos están a punto de sufrir un colapso mental:\n\n{0}\nImprove these colonists' psychology soon or bad things will happen.</MentalBreakSoonDesc>
+  <MentalBreakSoonDesc>Estos colonos están a punto de sufrir un colapso mental:\n\n{0}\nMejora la psicología de estos colonos o tendrás problemas pronto.</MentalBreakSoonDesc>
 
   <MentalBreakImminent>Colapso mental inminente</MentalBreakImminent>
   <MentalBreakImminentDesc>Estos colonos están sometidos a una fuerte presión y pueden sufrir un colapso mental en cualquier momento:\n\n{0}</MentalBreakImminentDesc>
@@ -68,7 +68,7 @@
   <NeedDumpDesc>Hay desperdicios que tus colonos quieren trasladar, pero no tienen a donde hacerlo.\n\nDesigna un almacén y configuralo para aceptar desperdicios.</NeedDumpDesc>
 
   <NeedGrave>Necesitas una tumba</NeedGrave>
-  <NeedGraveDesc>Hay un cadáver tirado en el suelo y careces de un lugar donde dejarlo.\n\nHaz una tumba o un vertederoBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+  <NeedGraveDesc>Hay un cadáver tirado en el suelo y careces de un lugar donde dejarlo.\n\nHaz una tumba o un vertedero.</NeedGraveDesc>
 
   <ColonistsIdle>{0} colonos ociosos</ColonistsIdle>
   <ColonistsIdleDesc>Estos colonos están vagando ociosos:\n\n{0}\nDeberías darles algo productivo que hacer.</ColonistsIdleDesc>
