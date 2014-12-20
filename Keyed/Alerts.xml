@@ -56,7 +56,7 @@
   <NeedMealSourceDesc>Careces de medios para producir comidas\n\nConstruye un dispensador de pasta nutritiva o una cocina.\n\n(No puede estar en una celda de prisión, de lo contrario los colonos no podrán usarlo)</NeedMealSourceDesc>
 
   <NeedBatteries>Necesitas baterías</NeedBatteries>
-  <NeedBatteriesDesc>Tienes paneles solares pero careces de baterías, lo que significa que sufrirás apagones cada vez que se ponga el Sol.\n\nConstruye un par de baterías para pasar la noche.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Posees fuentes de electricidad pero careces de baterías, lo que significa que sufrirás apagones cada vez que se ponga el Sol.\n\nConstruye un par de baterías para pasar la noche.</NeedBatteriesDesc>
 
   <NoTradingCapacity>Imposible comerciar</NoTradingCapacity>
   <NoTradingCapacityDesc>Careces de medios para comerciar con las naves en órbita.\n\nConstruye una consola de comunicaciones.</NoTradingCapacityDesc>
@@ -68,7 +68,7 @@
   <NeedDumpDesc>Hay desperdicios que tus colonos quieren trasladar, pero no tienen a donde hacerlo.\n\nDesigna un almacén y configuralo para aceptar desperdicios.</NeedDumpDesc>
 
   <NeedGrave>Necesitas una tumba</NeedGrave>
-  <NeedGraveDesc>Hay un cadáver tirado en el suelo y careces de un lugar donde dejarlo.\n\nHaz una tumba o un vertederoBuild a grave or a dumping zone and set their storage settings.</NeedGraveDesc>
+  <NeedGraveDesc>Hay un cadáver tirado en el suelo y careces de un lugar donde dejarlo.\n\nConstruye una tumba o asigna una zona como vertedero.</NeedGraveDesc>
 
   <ColonistsIdle>{0} colonos ociosos</ColonistsIdle>
   <ColonistsIdleDesc>Estos colonos están vagando ociosos:\n\n{0}\nDeberías darles algo productivo que hacer.</ColonistsIdleDesc>
