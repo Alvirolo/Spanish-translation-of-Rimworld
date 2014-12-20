@@ -93,10 +93,10 @@
   <TabBills>Listas</TabBills>
   <TabGrowing>Creciendo</TabGrowing>
   <TabCharacter>Personaje</TabCharacter>
-  <TabNeeds>Estado</TabNeeds>
+  <TabNeeds>Necesidades</TabNeeds>
   <TabPrisoner>Prisionero</TabPrisoner>
   <TabGear>Equipo</TabGear>
-  <TabThoughts>Ideas</TabThoughts>
+  <TabThoughts>Pensamientos</TabThoughts>
   <TabStorage>Almacenaje</TabStorage>
 
 	<!-- ITabs -->
